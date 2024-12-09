@@ -10,3 +10,7 @@ appealing background with a linear gradient, making it attractive and user-frien
 * **Simple Arithmetic Operations:** Perform addition, subtraction, multiplication, division, and more.
 * **Modern UI:** A clean, user-friendly interface with smooth animations.
 * **Optimized for All Devices:** The calculator layout is flexible, so it looks great on tablets, desktops, and smartphones.
+
+### 📸 Preview
+👉 Click below to visit the live demo!<br>
+**Link:** (https://govind-553.github.io/Simple-Calculator/)
